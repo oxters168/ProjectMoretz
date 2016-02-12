@@ -1,0 +1,9 @@
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\bin\Debug\ProjectMoretz.exe.config
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\obj\Debug\ProjectMoretz.csprojResolveAssemblyReference.cache
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\obj\Debug\ProjectMoretz.Properties.Resources.resources
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\obj\Debug\ProjectMoretz.csproj.GenerateResource.Cache
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\bin\Debug\ProjectMoretz.exe
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\bin\Debug\ProjectMoretz.pdb
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\obj\Debug\ProjectMoretz.exe
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\obj\Debug\ProjectMoretz.pdb
+C:\Users\oxter\OneDrive\Projects\VisualStudio\ProjectMoretz\ProjectMoretz\obj\Debug\ProjectMoretz.MainForm.resources
